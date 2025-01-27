@@ -1,6 +1,6 @@
 # Neutrino Spectrum Generation for Progenitor Nuclides
 
-This project generates neutrino spectra for progenitor nuclides, taking into account the forbidden effects of non-unique forbidden decays through Overlap-Barrier Transition Densities (OBTDs). The formalism used in the calculations is based on the work of Behren's Buhring (1973).
+This project generates neutrino spectra for progenitor nuclides, taking into account the forbidden effects of non-unique forbidden decays through One-Body Transition Densities (OBTDs). The formalism used in the calculations is based on the work of Behren's Buhring (1973).
 
 ## Overview
 
@@ -25,7 +25,7 @@ To generate the neutrino spectrum, simply run the `main.py` script. This script 
 
 ## Technical Details
 
-The code implements the formalism from **Behren's Buhring (1973)**, specifically considering the forbidden effects of non-unique forbidden decays. This effect is modeled using Overlap-Barrier Transition Densities (OBTDs), which are incorporated into the decay rate calculations.
+The code implements the formalism from **Behren's Buhring (1973)**, specifically considering the forbidden effects of non-unique forbidden decays. This effect is modeled using One-Body Transition Densities (OBTDs), which are incorporated into the decay rate calculations.
 
 The neutrino spectrum generation relies on careful modeling of these decays, and the code ensures that the contribution from each allowed and forbidden transition is accurately included.
 
