@@ -1,1 +1,6 @@
-pip install thecobs radioactivedecay
+numpy
+scipy
+sympy
+matplotlib
+thecobs
+radioactivedecay
