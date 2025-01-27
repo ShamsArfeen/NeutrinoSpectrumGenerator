@@ -6,7 +6,7 @@ This project generates neutrino spectra for progenitor nuclides, taking into acc
 
 The code performs the following tasks:
 - **Neutrino Spectrum Generation**: It calculates the neutrino spectra from beta decays of progenitor nuclides.
-- **Non-unique Forbidden Decays**: The code accounts for the forbidden effects of non-unique forbidden decays using Overlap-Barrier Transition Densities (OBTDs), which are crucial for accurate modeling of the spectra.
+- **Non-unique Forbidden Decays**: The code accounts for the forbidden effects of non-unique forbidden decays using One-Body Transition Densities (OBTDs), which are crucial for accurate modeling of the spectra.
 - **Formalism**: The theoretical framework and equations used for the calculations are derived from Behren's Buhring (1973), which is widely used in nuclear physics for such calculations.
 
 ## How It Works
