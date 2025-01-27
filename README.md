@@ -15,7 +15,7 @@ To generate the neutrino spectrum, simply run the `main.py` script. This script 
 - Read input data for progenitor nuclides.
 - Apply the necessary formalism for non-unique forbidden decays.
 - Calculate the neutrino spectrum.
-- Output the result to a file for further analysis or plotting.
+- Plots the result to a matplot figure.
 
 ## Figure 1
 
